@@ -142,8 +142,9 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
-- [angular.js](https://angularjs.org/) - Framwork js, Parse, validate, manipulate data and form
-- [jquery-pjax]https://github.com/defunkt/jquery-pjax - jQuery plugin that uses ajax and pushState to deliver a fast browsing experience with real permalinks, page titles, and a working back button.
+- [angular.js](https://angularjs.org/) - Framwork js, Parse, validate, manipulate data and form 
+- [jquery-pjax](https://github.com/defunkt/jquery-pjax) - jQuery plugin that uses ajax and pushState to deliver a fast browsing experience with real permalinks, page titles, and a working back button.
+
 
 ### Icons
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
