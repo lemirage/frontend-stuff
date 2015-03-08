@@ -123,6 +123,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert
 - [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Google Material Design Progress Linear bar
 - [countUp.js](https://github.com/inorganik/countUp.js) - Count up or down animation effects for numbers
+- [labelauty](http://fntneves.github.io/jquery-labelauty/) - A nice and lightweight jQuery plugin that gives beauty to checkboxes and radio buttons and allows custom labels for each status of (un)checked inputs.
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
