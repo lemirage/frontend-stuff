@@ -8,6 +8,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Charts](#charts)
 - [Maps](#maps)
 - [Text](#text)
+- [Images](#images)
 - [Video](#video)
 - [Audio](#audio)
 - [Tables](#tables)
@@ -71,6 +72,10 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
 - [bacon](http://baconforme.com/) - Wraps text around a bezier curve or a line
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
+
+### Images
+- [Dropzone JS](http://www.dropzonejs.com/) - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+- [Tikslus](http://tikslus.com/tiksluscarousel/demo) - http://tikslus.com/tiksluscarousel/demo
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
